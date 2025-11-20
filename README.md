@@ -232,12 +232,13 @@ O projeto utiliza **imagens externas da Unsplash** via CDN, garantindo alta qual
 ## 🔗 Navegação
 
 Todas as páginas possuem um menu de navegação responsivo e consistente com links para:
-- **Home** - Página inicial com carrossel
 - **Rações e Alimentação** - Categoria de produtos
 - **Acessórios e Brinquedos** - Categoria de produtos
 - **Higiene e Cuidados** - Categoria de produtos
 - **Serviços** - Serviços de banho e tosa
 - **Cadastro** - Formulário de cadastro completo
+
+**Nota:** O logo "🐾 Pet Shop" serve como link para a página inicial (padrão web).
 
 ### Footer (Rodapé)
 Todas as páginas possuem footer completo com:

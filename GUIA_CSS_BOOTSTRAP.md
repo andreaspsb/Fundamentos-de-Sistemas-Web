@@ -90,11 +90,11 @@ O Bootstrap usa um sistema de 12 colunas flexível:
 
 #### **Brand (Logo/Nome)**
 ```html
-<a class="navbar-brand fw-bold text-primary" href="./">
+<a class="navbar-brand fw-bold" href="./">
 ```
 - `navbar-brand`: Estiliza o nome/logo da marca
 - `fw-bold`: Font weight bold (negrito)
-- `text-primary`: Cor azul primária do Bootstrap
+- **Cor definida via CSS customizado** (não mais `text-primary`)
 
 #### **Toggler (Botão Hambúrguer)**
 ```html
